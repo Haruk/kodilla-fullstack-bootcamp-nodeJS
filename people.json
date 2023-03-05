@@ -1,0 +1,22 @@
+[
+    {"gender":"M","firstName":"Grzegorz","lastName":"Miechowska","age":68,"phoneNumber":"283-388-307","email":"Grzegorz.Miechowska@gmail.com"},
+    {"gender":"M","firstName":"Zbigniew","lastName":"Piechota","age":27,"phoneNumber":"303-418-912","email":"Zbigniew.Piechota@gmail.com"},
+    {"gender":"M","firstName":"Alex","lastName":"Stryka","age":58,"phoneNumber":"148-139-545","email":"Alex.Stryka@gmail.com"},
+    {"gender":"M","firstName":"Michał","lastName":"Rabena","age":32,"phoneNumber":"823-415-101","email":"Michał.Rabena@gmail.com"},
+    {"gender":"F","firstName":"Monika","lastName":"Stryka","age":27,"phoneNumber":"429-067-783","email":"Monika.Stryka@gmail.com"},
+    {"gender":"F","firstName":"Aleksandra","lastName":"Kowalski","age":33,"phoneNumber":"381-504-471","email":"Aleksandra.Kowalski@gmail.com"},
+    {"gender":"M","firstName":"Tomasz","lastName":"Stryka","age":59,"phoneNumber":"757-550-619","email":"Tomasz.Stryka@gmail.com"},
+    {"gender":"M","firstName":"Janusz","lastName":"Stryka","age":31,"phoneNumber":"846-687-168","email":"Janusz.Stryka@gmail.com"},
+    {"gender":"M","firstName":"Marcel","lastName":"Iksiński","age":65,"phoneNumber":"264-103-074","email":"Marcel.Iksiński@gmail.com"},
+    {"gender":"M","firstName":"Alex","lastName":"Kowalski","age":33,"phoneNumber":"278-090-185","email":"Alex.Kowalski@gmail.com"},
+    {"gender":"M","firstName":"Zbigniew","lastName":"Miechowska","age":40,"phoneNumber":"922-196-891","email":"Zbigniew.Miechowska@gmail.com"},
+    {"gender":"M","firstName":"Michał","lastName":"Miechowska","age":18,"phoneNumber":"525-458-866","email":"Michał.Miechowska@gmail.com"},
+    {"gender":"F","firstName":"Alicja","lastName":"Piechota","age":64,"phoneNumber":"241-704-883","email":"Alicja.Piechota@gmail.com"},
+    {"gender":"M","firstName":"Zbigniew","lastName":"Stryka","age":27,"phoneNumber":"282-161-459","email":"Zbigniew.Stryka@gmail.com"},
+    {"gender":"F","firstName":"Aleksandra","lastName":"Iksiński","age":58,"phoneNumber":"515-828-345","email":"Aleksandra.Iksiński@gmail.com"},
+    {"gender":"M","firstName":"Janusz","lastName":"Rabena","age":42,"phoneNumber":"385-659-450","email":"Janusz.Rabena@gmail.com"},
+    {"gender":"M","firstName":"Grzegorz","lastName":"Piechota","age":44,"phoneNumber":"551-025-669","email":"Grzegorz.Piechota@gmail.com"},
+    {"gender":"M","firstName":"Janusz","lastName":"Wielga","age":52,"phoneNumber":"272-676-384","email":"Janusz.Wielga@gmail.com"},
+    {"gender":"F","firstName":"Alicja","lastName":"Iksiński","age":63,"phoneNumber":"311-971-644","email":"Alicja.Iksiński@gmail.com"},
+    {"gender":"M","firstName":"Grzegorz","lastName":"Miechowska","age":56,"phoneNumber":"649-812-313","email":"Grzegorz.Miechowska@gmail.com"}
+]
